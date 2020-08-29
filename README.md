@@ -9,7 +9,8 @@ Capturing the video with Opencv
 
 # Requirements
 
-```import os
+```
+import os
 from PIL import Image
 import numpy as np
 import cv2
